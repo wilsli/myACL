@@ -5712,6 +5712,13 @@
 (^|\.)pbskids\.org$
 (^|\.)pbs\.org$
 
+ #-> Flutter
+(^|\.)dartlang\.org$
+(^|\.)flutter\.io$
+(^|\.)storage\.googleapis\.com$
+(^|\.)flutter\.googlesource\.com$
+(^|\.)pub\.dartlang\.org$
+
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
