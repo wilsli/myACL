@@ -5711,6 +5711,7 @@
 # MyList
 (^|\.)pbskids\.org$
 (^|\.)pbs\.org$
+(^|\.)github\.com$
 
  #-> Flutter
 (^|\.)dartlang\.org$
