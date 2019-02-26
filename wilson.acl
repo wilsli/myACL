@@ -5709,18 +5709,6 @@
 ^.*\.tw$
 
 # MyList
-(^|\.)pbskids\.org$
-(^|\.)pbs\.org$
-(^|\.)github\.com$
-(^|\.)xmind\.net$
-
- #-> Flutter
-(^|\.)dartlang\.org$
-(^|\.)flutter\.io$
-(^|\.)storage\.googleapis\.com$
-(^|\.)flutter\.googlesource\.com$
-(^|\.)pub\.dartlang\.org$
-(^|\.)libimobiledevice\.org$
 
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
