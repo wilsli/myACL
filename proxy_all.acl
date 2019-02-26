@@ -1,4 +1,5 @@
 #**********************************************************************
+# proxy_all.acl
 # 2019-2-26 修改
 # ShadowsocksX-NG-R的ACL只支持proxy_all+bypass_list和bypass_all+proxy_list两种模式
 # 因此，此文件不能再包含proxy_list的内容
