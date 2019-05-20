@@ -5709,7 +5709,7 @@
 ^.*\.tw$
 
 # MyList
-
+(^|\.)auth0\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
